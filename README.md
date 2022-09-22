@@ -29,4 +29,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2022 Anita & Veronicah
